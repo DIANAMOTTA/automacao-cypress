@@ -1,0 +1,19 @@
+{
+  "name": "primeiro-projeto",
+  "version": "1.0.0",
+  "description": "Primeiro projeto com Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DIANAMOTTA/automacao-cypress.git"
+  },
+  "author": "Diana Motta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DIANAMOTTA/automacao-cypress/issues"
+  },
+  "homepage": "https://github.com/DIANAMOTTA/automacao-cypress#readme"
+}
