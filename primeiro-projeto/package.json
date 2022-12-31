@@ -6,14 +6,10 @@
   "scripts": {
     "test": "npx cypress open"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/DIANAMOTTA/automacao-cypress.git"
-  },
-  "author": "Diana Motta",
+  "author": "Jacqueline Oliveira",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/DIANAMOTTA/automacao-cypress/issues"
-  },
-  "homepage": "https://github.com/DIANAMOTTA/automacao-cypress#readme"
+  "devDependencies": {
+    "cypress": "^9.1.1",
+    "mochawesome": "^7.0.1"
+  }
 }
